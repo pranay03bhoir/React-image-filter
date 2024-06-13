@@ -13,4 +13,4 @@ For Awards & Recognition :
 ![image](https://github.com/pranay03bhoir/React-image-filter/assets/147631196/ff35c44c-a0db-40a3-8da5-415f85c63f2f)<br>
 
 
-<span style='font-size:0.5em'>Test this website at - https://react-image-filter-pranay-bhoir.netlify.app/</span>
+<span style='font-size:2em'>Test this website at - https://react-image-filter-pranay-bhoir.netlify.app/</span>
